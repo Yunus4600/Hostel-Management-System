@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HostelDatabase", "HostelDatabase\HostelDatabase.ssmssqlproj", "{CA7C5538-0EC9-41AD-A612-19D6B13ACC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7C5538-0EC9-41AD-A612-19D6B13ACC36}.Default|Default.ActiveCfg = Default
+		{89088B37-ECA3-4E3F-8272-78F4393DE105}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472D029D-1FC9-4F31-801C-22F8C34EFC12}
+	EndGlobalSection
+EndGlobal
