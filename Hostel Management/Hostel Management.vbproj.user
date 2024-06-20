@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="All UserControls\UC_AddRoom.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="All UserControls\UC_CheckOut.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="All UserControls\UC_feedback.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="All UserControls\UC_NewRegistration.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forgot_pasword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_StudentDetails_.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
