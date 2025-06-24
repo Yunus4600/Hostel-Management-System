@@ -1,7 +1,7 @@
 # Hostel Management System
 
 A complete Desktop Application for managing hostel operations, developed using **Visual Basic .NET** and **MS SQL Server**.  
-This project streamlines student registration, room allocation, employee management, and more in a user-friendly interface.
+This project streamlines student registration, room allocation, and more in a user-friendly interface.
 
 ---
 
